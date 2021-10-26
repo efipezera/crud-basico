@@ -1,2 +1,2 @@
-# Basic CRUD
-Basic CRUD created in Go language.
+# CRUD básico
+CRUD básico criado em Go.
